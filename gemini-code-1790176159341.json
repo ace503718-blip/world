@@ -1,0 +1,70 @@
+{
+  "name": "Netherlands",
+  "basic": {
+    "officialName": "Kingdom of the Netherlands",
+    "capital": "Amsterdam",
+    "population": "18,000,000",
+    "area": "41,850 km²",
+    "continent": "Europe",
+    "borders": ["Germany", "Belgium"],
+    "highestPoint": "Vaalserberg (322.5 m)",
+    "lowestPoint": "Zuidplaspolder (-6.76 m)",
+    "climate": "Temperate maritime climate",
+    "independenceDate": "26 July 1581 (Act of Abjuration)",
+    "nationalDay": "27 April (King's Day)",
+    "demonym": "Dutch",
+    "isoCode": "NL",
+    "internetDomain": ".nl",
+    "callingCode": "+31",
+    "drivingSide": "Right"
+  },
+
+  "language": {
+    "official": ["Dutch"],
+    "other": ["English"],
+    "alphabet": "Latin",
+    "languageFamily": "Indo-European / Germanic / West Germanic",
+    "dialects": ["Hollandic", "Brabantian", "Limburgish", "Low Saxon"],
+    "regionalLanguages": ["West Frisian", "Papiamento", "English (Caribbean NL)"]
+  },
+
+  "history": {
+    "ancient": "Inhabited by Germanic tribes such as the Batavians and Frisians; Southern regions were incorporated into the Roman Empire as Germania Inferior.",
+    "medieval": "Part of the Frankish Empire, later splitting into semi-independent fiefdoms under the Holy Roman Empire, including the Duchy of Brabant and County of Holland.",
+    "earlyModern": "Seceded from Spanish rule following the Eighty Years' War (1568–1648), giving rise to the Dutch Golden Age as a global maritime and economic power.",
+    "modern": "Transformed into a constitutional monarchy under the House of Orange-Nassau, maintained neutrality in WWI, occupied in WWII, and became a founding member of the EU and NATO.",
+    "timeline": [
+      { "year": "1581", "event": "Declaration of Independence (Act of Abjuration) from Spain." },
+      { "year": "1602", "event": "Establishment of the Dutch East India Company (VOC)." },
+      { "year": "1648", "event": "Peace of Westphalia recognizes full Dutch independence." },
+      { "year": "1815", "event": "Establishment of the Kingdom of the Netherlands." },
+      { "year": "1940-1945", "event": "German occupation during World War II." },
+      { "year": "1957", "event": "Netherlands becomes a founding member of the European Economic Community (EEC)." }
+    ]
+  },
+
+  "government": {
+    "type": "Unitary parliamentary constitutional monarchy",
+    "parliament": "States General (Senate / First Chamber and House of Representatives / Second Chamber)",
+    "constitution": "Constitution of the Kingdom of the Netherlands (1815, major revision in 1983)",
+    "headOfState": "King Willem-Alexander",
+    "headOfGovernment": "Prime Minister"
+  },
+
+  "economy": {
+    "currency": "Euro (EUR)",
+    "gdp": "$1.1 Trillion USD",
+    "gdpPerCapita": "$61,000 USD",
+    "industries": ["High-tech machinery (ASML)", "Agriculture & Horticulture", "Chemicals", "Financial Services", "Logistics & Shipping"],
+    "exports": ["Refined Petroleum", "Machinery & Computers", "Flowers & Bulbs", "Dairy Products", "Pharmaceuticals"],
+    "imports": ["Crude Petroleum", "Electronic Equipment", "Office Machinery", "Motor Vehicles"]
+  },
+
+  "culture": {
+    "food": ["Stroopwafels", "Bitterballen", "Haring (Raw Herring)", "Poffertjes", "Gouda & Edam Cheese", "Stamppot"],
+    "traditions": ["Cycling culture", "Sinterklaas celebrations", "King's Day festivities", "Elfstedentocht (Ice skating tour)"],
+    "festivals": ["Koningsdag (King's Day)", "Amsterdam Light Festival", "Keukenhof Flower Festival", "Rotterdam Summer Carnival"],
+    "music": ["EDM (Electronic Dance Music)", "Levenslied", "Classical"],
+    "literature": ["Anne Frank (The Diary of a Young Girl)", "Multatuli (Max Havelaar)", "Harry Mulisch", "Hella Haasse"]
+  }
+}
